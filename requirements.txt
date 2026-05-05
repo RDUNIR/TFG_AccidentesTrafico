@@ -1,0 +1,10 @@
+customtkinter
+Pillow
+psycopg2-binary
+python-dotenv
+reportlab
+pandas
+matplotlib
+seaborn
+openpyxl
+xlsxwriter
